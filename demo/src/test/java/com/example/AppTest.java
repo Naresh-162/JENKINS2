@@ -16,7 +16,6 @@ public class AppTest
     public void shouldAnswerWithTrue()
     {
         assertTrue( true );
-        System.out.println("Vanakam Gurunatha");
-        System.out.println("Vanakammmm");
+        System.out.println("");
     }
 }
